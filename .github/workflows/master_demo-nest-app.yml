@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'demo-nest-app'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_8e33ec3cfc8648cdb91d0231e1860d36 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_833d7ee46fdf485497d7825eb30c10ea }}
         package: .
