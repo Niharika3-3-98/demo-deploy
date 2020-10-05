@@ -21,7 +21,7 @@ export class ItemsService {
             name:"Item 3",
             qty : 30,
             desc : 'this is item 3',
-        }.
+        },
         {
             id:"4",
             name:"Item 4",
